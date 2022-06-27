@@ -8,3 +8,4 @@
 6.thirdlines -> write the script that displays third lines
 7.file -> write the script that displays file
 8.cwd state -> write the script that displsays cwd files
+9.duplicate last files -> write the script that duplicates the last lines
