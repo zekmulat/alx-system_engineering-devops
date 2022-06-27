@@ -5,3 +5,4 @@
 3.twofiles-> write a script that displays the file /etc/passwd /etc/hosts
 4.lastlines -> write the script that displays the last lines
 5.firstlines -> write the script that displays the first lines
+6.thirdlines -> write the script that displays third lines
