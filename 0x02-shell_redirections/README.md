@@ -13,3 +13,4 @@
 11.directories -> write the script that displays directory
 12.newest files -> write the script that displays newest files
 13.unique -> write the script that displays unique
+14.findtheword -> write the script that displsys findtheword
