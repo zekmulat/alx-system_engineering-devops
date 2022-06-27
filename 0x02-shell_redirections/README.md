@@ -6,3 +6,5 @@
 4.lastlines -> write the script that displays the last lines
 5.firstlines -> write the script that displays the first lines
 6.thirdlines -> write the script that displays third lines
+7.file -> write the script that displays file
+8.cwd state -> write the script that displsays cwd files
