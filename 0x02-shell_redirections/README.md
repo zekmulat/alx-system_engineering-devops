@@ -9,3 +9,4 @@
 7.file -> write the script that displays file
 8.cwd state -> write the script that displsays cwd files
 9.duplicate last files -> write the script that duplicates the last lines
+10.no more js -> write the script that deletes the file
