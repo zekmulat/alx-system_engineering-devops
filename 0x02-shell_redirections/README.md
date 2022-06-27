@@ -11,3 +11,4 @@
 9.duplicate last files -> write the script that duplicates the last lines
 10.no more js -> write the script that deletes the file
 11.directories -> write the script that displays directory
+12.newest files -> write the script that displays newest files
