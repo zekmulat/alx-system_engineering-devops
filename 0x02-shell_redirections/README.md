@@ -14,3 +14,4 @@
 12.newest files -> write the script that displays newest files
 13.unique -> write the script that displays unique
 14.findtheword -> write the script that displsys findtheword
+15.countthatword -> write the script that displays countthatword
